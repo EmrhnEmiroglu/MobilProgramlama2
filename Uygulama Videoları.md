@@ -1,4 +1,3 @@
-
 1. Hafta Hesap Makinesi Uygulaması
 https://github.com/user-attachments/assets/67b1ef95-a4ef-4867-893f-5cad18f0b1a8
 
@@ -14,3 +13,6 @@ https://github.com/user-attachments/assets/20224bed-fd61-4bde-884f-17f1475a0f22
 4. Hafta İl-Resim Eşleştirme Uygulaması
 https://github.com/user-attachments/assets/cb9443fe-d772-465a-80c9-e18d8a19d4e5
 
+
+5. Hafta Bluetooth Bağlantısı ile Fotoğraf/Video Çekme Uygulaması
+https://github.com/user-attachments/assets/0847ba9d-7fc7-4cad-8f1d-524cd8a29e5a
